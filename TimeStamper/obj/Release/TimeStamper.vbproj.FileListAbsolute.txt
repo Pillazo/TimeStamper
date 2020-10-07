@@ -1,0 +1,10 @@
+C:\Users\Jenn\AppData\Local\Temporary Projects\TimeStamper\bin\Release\TimeStamper.exe
+C:\Users\Jenn\AppData\Local\Temporary Projects\TimeStamper\bin\Release\TimeStamper.pdb
+C:\Users\Jenn\AppData\Local\Temporary Projects\TimeStamper\bin\Release\TimeStamper.xml
+C:\Users\Jenn\AppData\Local\Temporary Projects\TimeStamper\obj\Release\TimeStamper.Form1.resources
+C:\Users\Jenn\AppData\Local\Temporary Projects\TimeStamper\obj\Release\TimeStamper.Resources.resources
+C:\Users\Jenn\AppData\Local\Temporary Projects\TimeStamper\obj\Release\TimeStamper.vbproj.GenerateResource.cache
+C:\Users\Jenn\AppData\Local\Temporary Projects\TimeStamper\obj\Release\TimeStamper.vbproj.CoreCompileInputs.cache
+C:\Users\Jenn\AppData\Local\Temporary Projects\TimeStamper\obj\Release\TimeStamper.exe
+C:\Users\Jenn\AppData\Local\Temporary Projects\TimeStamper\obj\Release\TimeStamper.xml
+C:\Users\Jenn\AppData\Local\Temporary Projects\TimeStamper\obj\Release\TimeStamper.pdb

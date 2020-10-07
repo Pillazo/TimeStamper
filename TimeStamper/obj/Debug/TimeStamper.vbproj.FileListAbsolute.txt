@@ -1,0 +1,22 @@
+C:\Users\Jenn\AppData\Local\Temporary Projects\TimeStamper\bin\Debug\TimeStamper.exe
+C:\Users\Jenn\AppData\Local\Temporary Projects\TimeStamper\bin\Debug\TimeStamper.pdb
+C:\Users\Jenn\AppData\Local\Temporary Projects\TimeStamper\bin\Debug\TimeStamper.xml
+C:\Users\Jenn\AppData\Local\Temporary Projects\TimeStamper\obj\Debug\TimeStamper.vbprojAssemblyReference.cache
+C:\Users\Jenn\AppData\Local\Temporary Projects\TimeStamper\obj\Debug\TimeStamper.Form1.resources
+C:\Users\Jenn\AppData\Local\Temporary Projects\TimeStamper\obj\Debug\TimeStamper.Resources.resources
+C:\Users\Jenn\AppData\Local\Temporary Projects\TimeStamper\obj\Debug\TimeStamper.vbproj.GenerateResource.cache
+C:\Users\Jenn\AppData\Local\Temporary Projects\TimeStamper\obj\Debug\TimeStamper.vbproj.CoreCompileInputs.cache
+C:\Users\Jenn\AppData\Local\Temporary Projects\TimeStamper\obj\Debug\TimeStamper.exe
+C:\Users\Jenn\AppData\Local\Temporary Projects\TimeStamper\obj\Debug\TimeStamper.xml
+C:\Users\Jenn\AppData\Local\Temporary Projects\TimeStamper\obj\Debug\TimeStamper.pdb
+C:\Users\Jenn\source\repos\TimeStamper\TimeStamper\bin\Debug\TimeStamper.exe
+C:\Users\Jenn\source\repos\TimeStamper\TimeStamper\bin\Debug\TimeStamper.pdb
+C:\Users\Jenn\source\repos\TimeStamper\TimeStamper\bin\Debug\TimeStamper.xml
+C:\Users\Jenn\source\repos\TimeStamper\TimeStamper\obj\Debug\TimeStamper.vbprojAssemblyReference.cache
+C:\Users\Jenn\source\repos\TimeStamper\TimeStamper\obj\Debug\TimeStamper.Form1.resources
+C:\Users\Jenn\source\repos\TimeStamper\TimeStamper\obj\Debug\TimeStamper.Resources.resources
+C:\Users\Jenn\source\repos\TimeStamper\TimeStamper\obj\Debug\TimeStamper.vbproj.GenerateResource.cache
+C:\Users\Jenn\source\repos\TimeStamper\TimeStamper\obj\Debug\TimeStamper.vbproj.CoreCompileInputs.cache
+C:\Users\Jenn\source\repos\TimeStamper\TimeStamper\obj\Debug\TimeStamper.exe
+C:\Users\Jenn\source\repos\TimeStamper\TimeStamper\obj\Debug\TimeStamper.xml
+C:\Users\Jenn\source\repos\TimeStamper\TimeStamper\obj\Debug\TimeStamper.pdb
